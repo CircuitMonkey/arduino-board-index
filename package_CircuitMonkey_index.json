@@ -17,10 +17,10 @@
           "help": {
             "online": "http://forum.circuitmonkey.com"
           },
-          "url": "https://github.com/Circuitmonkey/arduino-board-index/boards/circuitmonkey-avr-0.0.1.tar.bz2",
+          "url": "https://raw.githubusercontent.com/CircuitMonkey/arduino-board-index/master/boards/circuitmonkey-avr-0.0.1.tar.bz2",
           "archiveFileName": "circuitmonkey-avr-0.0.1.tar.bz2",
-          "checksum": "SHA-256:e6399b2a687dd8485cbbfcbfbbd4f8e2e15fe535bbcfd1d81bf93d01e31f7d76",
-          "size": "4907422",
+          "checksum": "SHA-256:fe7ce5770a968b54b79eff800a25aaf05f9b4141e74fde817fa26fb0c90fdca0",
+          "size": "1358",
           "boards": [
             {"name": "CircuitMonkey Albedo"},
             {"name": "CircuitMonkey StarFire"}
