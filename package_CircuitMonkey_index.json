@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "circuitmonkey",
+      "maintainer": "Circuit Monkey",
+      "websiteURL": "http://www.circuitmonkey.com/",
+      "email": "arduino@circuitmonkey.com",
+      "help": {
+        "online": "http://forum.circuitmonkey.com"
+      },
+      "platforms": [
+        {
+          "name": "CircuitMonkey AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "http://forum.circuitmonkey.com"
+          },
+          "url": "https://github.com/Circuitmonkey/arduino-board-index/boards/circuitmonkey-avr-0.0.1.tar.bz2",
+          "archiveFileName": "circuitmonkey-avr-0.0.1.tar.bz2",
+          "checksum": "SHA-256:e6399b2a687dd8485cbbfcbfbbd4f8e2e15fe535bbcfd1d81bf93d01e31f7d76",
+          "size": "4907422",
+          "boards": [
+            {"name": "CircuitMonkey Albedo"},
+            {"name": "CircuitMonkey StarFire"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
