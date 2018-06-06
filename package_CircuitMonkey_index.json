@@ -19,7 +19,7 @@
           },
           "url": "https://raw.githubusercontent.com/CircuitMonkey/arduino-board-index/master/boards/circuitmonkey-avr-0.0.1.tar.bz2",
           "archiveFileName": "circuitmonkey-avr-0.0.1.tar.bz2",
-          "checksum": "SHA-256:11b24712b7042913fd514346de331c80ca16e125c2cd8ae0769d56440a5f15cb",
+          "checksum": "SHA-256:f273dcc0ca52966f0dbc178908cc59b2b05623434e36bc6b3c0f331416ef6131",
           "size": "1358",
           "boards": [
             {"name": "CircuitMonkey Albedo"},
